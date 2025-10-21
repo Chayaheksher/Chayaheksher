@@ -1,16 +1,28 @@
-## Hi there 👋
+# Haya Heksher | Full Stack Developer
 
-<!--
-**Chayaheksher/Chayaheksher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  hayaheksher@gmail.com |  052-7137011  
+ [Portfolio Website](https://portfolio-two-lime-se081hzasl.vercel.app/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+Full Stack developer with hands-on experience in **end-to-end web development** using modern technologies.  
+Highly skilled in integrating **AI tools** to boost development speed and quality.  
+Focused on **precision, code quality, and user experience**, with strong attention to detail and teamwork.
+
+---
+
+##  Tech Stack
+
+**Frontend:**  
+`Angular 16+`, `React`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `SCSS`, `PrimeNG`, `Material UI`
+
+**Backend:**  
+`C#`, `.NET Core`, `Web API`, `NodeJS`, `Java`
+
+**Databases:**  
+`SQL Server`, `MongoDB`, `Entity Framework`, `LINQ`
+
+**Tools:**  
+`Swagger`, `Postman`, `Git`, `Azure DevOps`, `TFS`, `Figma`
