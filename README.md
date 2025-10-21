@@ -25,4 +25,4 @@ Focused on **precision, code quality, and user experience**, with strong attenti
 `SQL Server`, `MongoDB`, `Entity Framework`, `LINQ`
 
 **Tools:**  
-`Swagger`, `Postman`, `Git`, `Azure DevOps`, `TFS`, `Figma`
+`Swagger`, `Postman`, `Git`, `Azure DevOps`, `TFS`
